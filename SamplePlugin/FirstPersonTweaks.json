@@ -1,0 +1,13 @@
+{
+  "Author": "TetraYouBetra",
+  "Name": "First Person Tweaks",
+  "Punchline": "Tweaks for the first person camera mode.",
+  "Description": "Several tweaks for the first person camera mode. Disable body, mount, and weapon culling in 1st person mode.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "camera",
+    "1st person",
+    "first person"
+  ]
+}
